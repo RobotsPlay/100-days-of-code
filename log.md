@@ -8,5 +8,7 @@
 
 Present illustrations with matching words with a letter missing. User must enter the missing letter.
 
+**Maybe for later?** A flash card app for helping to learn sight words. Could later adapt for other things like math facts.
+
 **Link(s) to work**: Nothing yet, it's not even the first day!
 
