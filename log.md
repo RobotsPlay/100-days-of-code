@@ -10,5 +10,5 @@ Present illustrations with matching words with a letter missing. User must enter
 
 **Maybe for later?** A flash card app for helping to learn sight words. Could later adapt for other things like math facts.
 
-**Link(s) to work**: Nothing yet, it's not even the first day!
+**Link(s) to work**: [Learn to Read git repo](https://github.com/RobotsPlay/learn-to-read)
 
