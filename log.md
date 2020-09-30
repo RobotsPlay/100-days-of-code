@@ -12,3 +12,9 @@ Present illustrations with matching words with a letter missing. User must enter
 
 **Link(s) to work**: [Learn to Read git repo](https://github.com/RobotsPlay/learn-to-read)
 
+
+### Day 1: September 30, 2020
+
+**Today's Progress**: Set up React project, made basic framework with exercise and frame components with switching controls. Set up basic styling structure and threw it up on Netlify
+
+**Link(s) to work**: [Learn to Read Site](https://learn-to-read.johnegraham2.com/)
