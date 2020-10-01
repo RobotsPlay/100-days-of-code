@@ -23,4 +23,6 @@ Present illustrations with matching words with a letter missing. User must enter
 
 ### Day 2: October 1, 2020
 
-**Today's Progress**: Added speach synthesis and a nice, slabby font to the exercise word.
+**Today's Progress**: Added speech synthesis using `SpeechSynthesis` api and a nice, slabby font to the exercise word.
+
+**Thoughts:** I misspelled speech in my app code. :(
