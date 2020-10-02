@@ -26,3 +26,7 @@ Present illustrations with matching words with a letter missing. User must enter
 **Today's Progress**: Added speech synthesis using `SpeechSynthesis` api and a nice, slabby font to the exercise word.
 
 **Thoughts:** I misspelled speech in my app code. :(
+
+### Day 3: October 2, 2020
+
+**Today's Progress**: Split exercise word into single letter spans, replacing check letter with an input. Added validation to see if typed in letter is correct. Had to remove the slabby font because the baseline was really wonky.
