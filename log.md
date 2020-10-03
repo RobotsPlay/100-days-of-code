@@ -30,3 +30,7 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 3: October 2, 2020
 
 **Today's Progress**: Split exercise word into single letter spans, replacing check letter with an input. Added validation to see if typed in letter is correct. Had to remove the slabby font because the baseline was really wonky.
+
+### Day 4: October 3, 2020
+
+**Today's Progress**: Added exercise wide scoring and score display. Stubbed out buttons for final submission.
