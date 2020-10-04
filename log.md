@@ -41,3 +41,6 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 5: October 4, 2020
 
 **Today's Progress**: Added some illustrations to the slides, fixed some layout issues, slowed down the speech.
+
+
+**Thoughts:** I'm really not happy with the way the height jumps up an down on mobile when the keyboard actvivates and deactives. My thought is to have the letters be multiple choice and answers are done with drag and drop.
