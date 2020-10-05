@@ -44,3 +44,10 @@ Present illustrations with matching words with a letter missing. User must enter
 
 
 **Thoughts:** I'm really not happy with the way the height jumps up an down on mobile when the keyboard actvivates and deactives. My thought is to have the letters be multiple choice and answers are done with drag and drop.
+
+
+
+### Day 6: October 5, 2020
+
+**Today's Progress**: Greatly improved the UX by swapping form input to be a keyboard event driven span. Added letter buttons for mobile.
+
