@@ -42,7 +42,6 @@ Present illustrations with matching words with a letter missing. User must enter
 
 **Today's Progress**: Added some illustrations to the slides, fixed some layout issues, slowed down the speech.
 
-
 **Thoughts:** I'm really not happy with the way the height jumps up an down on mobile when the keyboard actvivates and deactives. My thought is to have the letters be multiple choice and answers are done with drag and drop.
 
 
@@ -50,4 +49,14 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 6: October 5, 2020
 
 **Today's Progress**: Greatly improved the UX by swapping form input to be a keyboard event driven span. Added letter buttons for mobile.
+
+
+### Day 7: October 6, 2020
+
+**Today's Progress**: Added intro screen and final screen, tweaked buttons and several styles.
+
+**Thoughts:** I think I've gone as far with this one as I'm gonna go.
+
+**Link(s) to work**: [Learn to Read Site](https://learn-to-read.johnegraham2.com/)
+
 
