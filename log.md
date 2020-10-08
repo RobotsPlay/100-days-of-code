@@ -60,3 +60,17 @@ Present illustrations with matching words with a letter missing. User must enter
 **Link(s) to work**: [Learn to Read Site](https://learn-to-read.johnegraham2.com/)
 
 
+### Day 8: October 7, 2020
+
+**Today's Progress**: I know I said I was done with this, but the I read [this article](https://freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd) on @freeCodeCamp
+
+**Link(s) to work**: [Learn to Read Site](https://learn-to-read.johnegraham2.com/)
+
+
+### Day 9: October 8, 2020
+
+**Today's Progress**: Started an experiment to recreate the Nier Automata menu screen in html/css/js.
+
+**Link(s) to work**: [https://codepen.io/RobotsPlay/pen/bGeNGdx](https://codepen.io/RobotsPlay/pen/bGeNGdx)
+
+
