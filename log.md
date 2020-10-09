@@ -74,3 +74,8 @@ Present illustrations with matching words with a letter missing. User must enter
 **Link(s) to work**: [https://codepen.io/RobotsPlay/pen/bGeNGdx](https://codepen.io/RobotsPlay/pen/bGeNGdx)
 
 
+### Day 10: October 9, 2020
+
+**Today's Progress**: Added some Greensock animation to the Nier menu intial load.
+
+**Link(s) to work**: [https://codepen.io/RobotsPlay/pen/bGeNGdx](https://codepen.io/RobotsPlay/pen/bGeNGdx)
