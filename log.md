@@ -79,3 +79,10 @@ Present illustrations with matching words with a letter missing. User must enter
 **Today's Progress**: Added some Greensock animation to the Nier menu intial load.
 
 **Link(s) to work**: [https://codepen.io/RobotsPlay/pen/bGeNGdx](https://codepen.io/RobotsPlay/pen/bGeNGdx)
+
+
+### Day 11: October 10, 2020
+
+**Today's Progress**: Started another Nier themed pen on CodePen. This time it's the title screen. I set up the title logo, the inital menue items and the canvas-based static star field from [this tutorial](https://medium.com/better-programming/fun-with-html-canvas-lets-create-a-star-field-a46b0fed5002).
+
+**Link(s) to work**: [https://codepen.io/RobotsPlay/pen/ExyjVVY](https://codepen.io/RobotsPlay/pen/ExyjVVY)
