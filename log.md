@@ -85,4 +85,6 @@ Present illustrations with matching words with a letter missing. User must enter
 
 **Today's Progress**: Started another Nier themed pen on CodePen. This time it's the title screen. I set up the title logo, the inital menue items and the canvas-based static star field from [this tutorial](https://medium.com/better-programming/fun-with-html-canvas-lets-create-a-star-field-a46b0fed5002).
 
+**Thoughts:** I got the font from [The Fonts Magazine](https://thefontsmagazine.com/font/nier-automata-font/#:~:text=The%20Nier%20Automata%20is%20an,released%20on%20March%2017%2C%202017.&text=The%20font%20used%20for%20the,basically%20ITC%20Benguiat%20Book%20Font.) so I can look at animation the title graphic.
+
 **Link(s) to work**: [https://codepen.io/RobotsPlay/pen/ExyjVVY](https://codepen.io/RobotsPlay/pen/ExyjVVY)
