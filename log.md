@@ -88,3 +88,10 @@ Present illustrations with matching words with a letter missing. User must enter
 **Thoughts:** I got the font from [The Fonts Magazine](https://thefontsmagazine.com/font/nier-automata-font/#:~:text=The%20Nier%20Automata%20is%20an,released%20on%20March%2017%2C%202017.&text=The%20font%20used%20for%20the,basically%20ITC%20Benguiat%20Book%20Font.) so I can look at animation the title graphic.
 
 **Link(s) to work**: [https://codepen.io/RobotsPlay/pen/ExyjVVY](https://codepen.io/RobotsPlay/pen/ExyjVVY)
+
+
+### Day 12: October 11, 2020
+
+**Today's Progress**: Created an svg title logo out of the nier-ish font. Created a gear in illustrator and inimated it in the SVG file.
+
+**Link(s) to work**: [https://codepen.io/RobotsPlay/pen/ExyjVVY](https://codepen.io/RobotsPlay/pen/ExyjVVY)
