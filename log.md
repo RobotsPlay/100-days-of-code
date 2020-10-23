@@ -95,3 +95,8 @@ Present illustrations with matching words with a letter missing. User must enter
 **Today's Progress**: Created an svg title logo out of the nier-ish font. Created a gear in illustrator and inimated it in the SVG file.
 
 **Link(s) to work**: [https://codepen.io/RobotsPlay/pen/ExyjVVY](https://codepen.io/RobotsPlay/pen/ExyjVVY)
+
+
+### Day 13: October 23, 2020
+
+**Today's Progress**: Started working on a tutorial to make a twitter-like thing using MongoDB, Express, React, Node and GraphQL. [https://www.youtube.com/watch?v=n1mdAPFq2Os](https://www.youtube.com/watch?v=n1mdAPFq2Os)
