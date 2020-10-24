@@ -100,3 +100,7 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 13: October 23, 2020
 
 **Today's Progress**: Started working on a tutorial to make a twitter-like thing using MongoDB, Express, React, Node and GraphQL. [https://www.youtube.com/watch?v=n1mdAPFq2Os](https://www.youtube.com/watch?v=n1mdAPFq2Os)
+
+### Day 14: October 24, 2020
+
+**Today's Progress**: Progressed in the MERNG tutorial to add user authentication.
