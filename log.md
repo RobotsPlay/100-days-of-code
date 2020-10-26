@@ -111,3 +111,7 @@ Present illustrations with matching words with a letter missing. User must enter
 
 **Today's Progress**: Progressed in the MERNG tutorial: getPost, createPost, deletePost, checkAuth, createComment, deleteComment, likePost, commentCount, likeCount.
 
+
+### Day 16: October 26, 2020
+
+**Today's Progress**: Progressed in the MERNG tutorial: client react app, routing, post list, register form, login form
