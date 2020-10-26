@@ -109,5 +109,5 @@ Present illustrations with matching words with a letter missing. User must enter
 
 ### Day 15: October 25, 2020
 
-**Today's Progress**: Progressed in the MERNG tutorial: getPost, createPost, deletePost, checkAuth, createComment, deleteComment.
+**Today's Progress**: Progressed in the MERNG tutorial: getPost, createPost, deletePost, checkAuth, createComment, deleteComment, likePost, commentCount, likeCount.
 
