@@ -115,3 +115,8 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 16: October 26, 2020
 
 **Today's Progress**: Progressed in the MERNG tutorial: client react app, routing, post list, register form, login form, login, logout, auth context
+
+
+### Day 17: October 27, 2020
+
+**Today's Progress**: Progressed in the MERNG tutorial: post form mutation, like button functionality
