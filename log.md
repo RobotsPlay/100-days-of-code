@@ -120,3 +120,8 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 17: October 27, 2020
 
 **Today's Progress**: Progressed in the MERNG tutorial: post form mutation, like button functionality
+
+
+### Day 18: October 28, 2020
+
+**Today's Progress**: Progressed in the MERNG tutorial: delete post, add comment, delete comment, finished single post page
