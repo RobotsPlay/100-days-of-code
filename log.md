@@ -125,3 +125,8 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 18: October 28, 2020
 
 **Today's Progress**: Progressed in the MERNG tutorial: delete post, add comment, delete comment, finished single post page
+
+
+### Day 19: October 29, 2020
+
+**Today's Progress**: Completed 21 lessons in freecodecamp.org's basic javascript course
