@@ -130,3 +130,10 @@ Present illustrations with matching words with a letter missing. User must enter
 ### Day 19: October 29, 2020
 
 **Today's Progress**: Completed 21 lessons in freecodecamp.org's basic javascript course
+
+
+### Day 20: October 30, 2020
+
+**Today's Progress**: Collections app: users and collections graphql
+
+**Link(s) to work**: [https://github.com/RobotsPlay/collections-app](https://github.com/RobotsPlay/collections-app)
